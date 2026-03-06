@@ -105,3 +105,9 @@ venv.bak/
 
 # PyCharm config files
 .idea/
+
+# VS Code config files
+.vscode/
+
+# PST files
+*.pst
